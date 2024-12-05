@@ -30,3 +30,24 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+table,
+th,
+tr,
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.left {
+  width: 20%;
+}
+
+.right {
+  width: 100%;
+}

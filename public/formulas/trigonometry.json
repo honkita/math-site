@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sine",
+    "text": "sin(\\theta) = \\frac{\\text{opposite}}{\\text{hypotenuse}}"
+  },
+  {
+    "name": "Cosine",
+    "text": "cos(\\theta) = \\frac{\\text{adjacent}}{\\text{hypotenuse}}"
+  },
+  {
+    "name": "Tangent",
+    "text": "tan(\\theta) = \\frac{\\text{opposite}}{\\text{adjacent}}"
+  }
+]
